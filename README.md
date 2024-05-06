@@ -2,6 +2,7 @@
 Aviator Predictor: Streamline Your Casino Gaming Experience
 Aviator Predictor is a revolutionary app designed to simplify and streamline your casino gaming experience. Our app provides you with complete control over the airplane's movement, allowing you to predict and maximize your winnings. Available for Android devices, the Aviator Predictor Bot is your ultimate gaming companion.
 Getting Started with Aviator Predictor
+![image](https://github.com/aviatbet/Aviator-predictor-app/assets/169057273/d1248e43-ddf0-4192-8745-1a65a083d62c)
 
 # Sign Up and Registration
 

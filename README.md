@@ -8,7 +8,7 @@ Getting Started with Aviator Predictor
 Signing up for Aviator Predictor is a breeze. Simply accept the terms of use, register, and create an account on one of our partnered casino websites.
 Choose a Casino Site
 
-During the registration process, you'll have the opportunity to select from a range of suggested casino sites, including popular platforms like [**OUR WEBSITE**](https://leezeept.com/4/7443602). Register and obtain your unique account ID.
+During the registration process, you'll have the opportunity to select from a range of suggested casino sites, including popular platforms like [**DOWNLOAD LINK**](https://leezeept.com/4/7443602). Register and obtain your unique account ID.
 
 **Usage Limitations
 **

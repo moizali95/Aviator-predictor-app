@@ -25,4 +25,4 @@ The app's operation is straightforward. During the break between rounds, simply 
 
 Compatible Casino Sites
 Aviator Predictor works seamlessly with a wide range of popular casino sites, including 1WIN, PIN-UP, 1XBET, and Mostbet. We continuously expand our partnerships and monitor the functionality of these platforms to ensure a seamless gaming experience.
-Visit our official website at [**OUR WEBSITE**]([url](https://leezeept.com/4/7443602)) to learn more about Aviator Predictor and begin your journey to mastering casino gaming.
+Visit our official website at [**OUR WEBSITE**]((https://leezeept.com/4/7443602)) to learn more about Aviator Predictor and begin your journey to mastering casino gaming.

@@ -19,20 +19,18 @@ This Tool shows you how many multipliers the lucky plane will fly to make it eas
 
 ## Setup
 
-1. Download this repository as zip to your local machine.
-2. Go to the project folder.
-3. Open Project.
-4. Use the shortcut `Ctrl + Shift + B` to compile the project.
+1. Download this APP as zip to your Phone.
+2. Install the app.
+3. Open the app and click login
 
 ## Usage
 
-1. Once the project is compiled in Visual Studio, you can launch the Aviator Predictor Application by pressing `F5`.
 
-2. After launching, the Login Screen will appear.
+1. After launching, the Login Screen will appear.
 
-3. Username: ```admin```
+2. Username: ```admin```
 
-4. Password: You can find out by pressing Forgot Password
+5. Password: You can find out by pressing Forgot Password
 
 5. After logging in, enter the seed of the latest game in the ```LAST GAME SEED``` section and click the ```Next``` button. If you see Done, you can click the START button and see the next multiplier.
 
